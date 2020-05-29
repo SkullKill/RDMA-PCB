@@ -65,6 +65,8 @@ https://github.com/SkullKill/RDMA-PCB/wiki
   ------------------------------------------------------------
 ## MecanicalDrawing
 
+1 to 1 scale 
+
 https://github.com/SkullKill/RDMA-PCB/blob/master/Case/RDMAcase-MecanicalDrawing-V1.0.pdf
 
 
