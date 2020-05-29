@@ -65,7 +65,7 @@ https://github.com/SkullKill/RDMA-PCB/wiki
   ------------------------------------------------------------
 ## MecanicalDrawing
 
-https://github.com/SkullKill/RDMA-PCB/Case/RDMAcase-MecanicalDrawing-V1.0.pdf
+https://github.com/SkullKill/RDMA-PCB/blob/master/Case/RDMAcase-MecanicalDrawing-V1.0.pdf
 
 
   ------------------------------------------------------------
