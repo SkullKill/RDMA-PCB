@@ -80,20 +80,20 @@ https://github.com/SkullKill/RDMA-PCB/blob/master/Case/RDMAcase-MecanicalDrawing
   
 PCB features
 
-• Step down DC DC regulator (12v will power both the pi and PIR sensor)
-• Input has a self reset fuse, and reverse polarity protection.
-• Physical on/off switch when powered via 12v
-• Back power protection to allow pi to provide power.
-• RTC clock
-• Segment display (to display time left before alarm is triggered)
-• Ability to trigger 3 X 5V object (e.g buzzer or lights) (will probably only populate one for the buzzer)
-• The above trigger can be set to either 5V or 12V.
-• Built in buzzer (to alert operator 1 min before alarm is triggered and SMS are sent out)
-• 1-wire rail (possibility to add a number of DS18B20 temperature sensors)
-• 2 physical button, one to manually reset the timer, or if hold for a few sec, will extend the timer once. Other button is to shutdown/unused.
-• Ability to add external buttons.
-• 1 configurable status light. (on when the service is running)
-• All button, including PIR input has a physical denounce to eliminate noise/false alarm.
-• EEPROM as per pi hat requirement (will probably not populate)
-• Screw terminal for all connectors. No crimping required.
+* Step down DC DC regulator (12v will power both the pi and PIR sensor)
+* Input has a self reset fuse, and reverse polarity protection.
+* Physical on/off switch when powered via 12v
+* Back power protection to allow pi to provide power.
+* RTC clock
+* Segment display (to display time left before alarm is triggered)
+* Ability to trigger 3 X 5V object (e.g buzzer or lights) (will probably only populate one for the buzzer)
+* The above trigger can be set to either 5V or 12V.
+* Built in buzzer (to alert operator 1 min before alarm is triggered and SMS are sent out)
+* 1-wire rail (possibility to add a number of DS18B20 temperature sensors)
+* 2 physical button, one to manually reset the timer, or if hold for a few sec, will extend the timer once. Other button is to shutdown/unused.
+* Ability to add external buttons.
+* 1 configurable status light. (on when the service is running)
+* All button, including PIR input has a physical denounce to eliminate noise/false alarm.
+* EEPROM as per pi hat requirement (will probably not populate)
+* Screw terminal for all connectors. No crimping required.
 
