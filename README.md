@@ -70,6 +70,7 @@ https://github.com/SkullKill/RDMA-PCB/wiki
 1 to 1 scale 
 
 https://github.com/SkullKill/RDMA-PCB/blob/master/Case/RDMAcase-MecanicalDrawing-V1.0.pdf
+
 please use PDF version, and print to scale
 ![RDMAcase-MecanicalDrawing-V1.0.jpg](https://github.com/SkullKill/RDMA-PCB/wiki/images/RDMAcase-MecanicalDrawing-V1.0.jpg)
 
