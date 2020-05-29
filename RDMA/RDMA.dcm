@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS2482S-100+
+D Single-Channel 1-Wire Master i2c
+K 1-Wire Master i2c
+F https://datasheets.maximintegrated.com/en/ds/DS2482-100.pdf
+$ENDCMP
+#
+$CMP DS9503P+
+D I.C. DS9503P Maxim DS9503P+ ESD Protection Diode 1-Wire , 6-Pin TSOC
+K ESD Diode 1-wire
+F https://datasheets.maximintegrated.com/en/ds/DS9503.pdf
+$ENDCMP
+#
+$CMP HT16K33-28
+D 9x16 LED matrix driver with 8-bit PWM and breathing, SSOP-28
+K led matrix pwm
+F https://datasheet.lcsc.com/szlcsc/1811091023_Holtek-Semicon-HT16K33_C87502.pdf
+$ENDCMP
+#
+#End Doc Library

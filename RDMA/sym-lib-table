@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name pi-template)(type Legacy)(uri ${KIPRJMOD}/pi-template.lib)(options "")(descr ""))
+  (lib (name RDMA)(type Legacy)(uri ${KIPRJMOD}/RDMA.lib)(options "")(descr ""))
+  (lib (name RDMA-rescue)(type Legacy)(uri ${KIPRJMOD}/RDMA-rescue.lib)(options "")(descr ""))
+)

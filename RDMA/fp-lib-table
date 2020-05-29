@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name pi-template)(type KiCad)(uri ${KIPRJMOD}/pi-template.pretty)(options "")(descr ""))
+  (lib (name RDMA)(type KiCad)(uri ${KIPRJMOD}/RDMA.pretty)(options "")(descr ""))
+)
