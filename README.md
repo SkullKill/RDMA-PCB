@@ -99,3 +99,16 @@ PCB features
 * EEPROM as per pi hat requirement (will probably not populate)
 * Screw terminal for all connectors. No crimping required.
 
+
+
+---------------------------
+
+A 12V , 1A PSU should work, however, to be on the safe side, use a 12V, 2A PSU
+
+Standard wall mount sensor DG65
+https://www.paradox.com/Products/default.asp?CATID=8&SUBCATID=79&PRD=1389
+
+swivel mount for DG65
+https://www.paradox.com/Products/default.asp?CATID=8&SUBCATID=81&PRD=456
+
+
