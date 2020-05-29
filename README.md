@@ -114,3 +114,11 @@ swivel mount for DG65
 https://www.paradox.com/Products/default.asp?CATID=8&SUBCATID=81&PRD=456
 
 
+---------------------------
+
+if the service is not running after restarting, GPIO 8 would be on, which would make the buzzer turn on. to turn it off, use the following.
+
+    gpio readall
+    gpio -g mode 8 output
+    gpio -g write 8 0
+
